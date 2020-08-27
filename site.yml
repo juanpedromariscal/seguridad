@@ -1,3 +1,4 @@
+---
 - name: Nombre
   hosts: all
   become: yes
